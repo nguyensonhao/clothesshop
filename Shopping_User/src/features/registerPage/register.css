@@ -1,0 +1,28 @@
+.sign-in-container {
+  padding: 20px !important;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between !important;
+}
+.button-css {
+  margin: 0 65px !important;
+}
+p {
+  font-size: 15px !important;
+  padding: 0px !important;
+
+  margin: 0px !important;
+  margin-left: 2px !important;
+}
+.container-css {
+  width: 870px !important;
+  max-width: 100% !important;
+  min-height: 600px !important;
+  
+}
+.h1-css {
+  font-weight: bolder !important;
+  margin: 0 !important;
+  text-align: center !important;
+  padding: 3%;
+}

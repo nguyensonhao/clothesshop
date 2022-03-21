@@ -1,0 +1,86 @@
+.container_page h1{
+    margin-left: 16%;
+    font-size: larger;
+    font-weight: bolder;
+    color: blue;
+}
+.container_page{
+   margin: 0 auto;
+}
+.search{
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    text-align: left;
+    width: 150% !important;
+    max-width: 200%;
+  
+}
+.searchTerm{
+    border: 1px solid rgba(173, 172, 172,0.5);
+    border-right: none;
+    padding-top: -1% !important;
+    padding-bottom: -1% !important;
+    text-align: left;
+}
+.searchButton{
+    border: none;
+}
+input{
+    color: red;
+}
+img{
+    width: 11% !important;
+}
+#productOrder{
+    margin-left: 17%;
+    border-top: 1px solid rgba(173, 172, 172, 0.3);
+    border-bottom: 1px solid rgba(173, 172, 172, 0.3);
+    margin-top: -12%;
+    padding-top: 1%;
+    padding-bottom: 8% !important;
+    width: 66% !important;
+    height: 17px !important;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: medium;
+}
+#brand{
+    color: rgb(182, 182, 182);
+    font-size: 50%;
+    margin-bottom: 4%;
+}
+h6{
+    margin-left: 13%;
+}
+span{
+    display: inline;
+    color: black;
+}
+.total_div{
+    padding-top: 2% !important;
+    font-size: larger;
+    text-align: right;
+    margin-left: -16%;
+    margin-top: -4%;
+    margin-bottom: 2%;
+}
+.a{
+    font-weight: lighter;
+    color: rgba(173, 172, 172, 0.9);
+}
+.statusOrder{
+    border-radius: 30px;
+    background-color: #ECF0F7;
+    font-size: medium;
+    padding: 1%;
+    margin-top: 3%;
+    font-family: 'Courier New', Courier, monospace;
+    color: green;
+}
+#listProductOrder{
+    margin-bottom: 7%;
+    clear: both;
+}
